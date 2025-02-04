@@ -37,6 +37,9 @@ Click on a task to mark it as complete.
 
 Use the edit and delete buttons to manage your tasks.
 
+🌐 Live Demo
+Check out the live demo of the app here.
+
 🤝 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
 
